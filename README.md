@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <!-- 
         Copyright (c) 2022 Marnie Dunbar
